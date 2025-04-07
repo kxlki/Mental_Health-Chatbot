@@ -1,2 +1,2 @@
 # Mental_Health-Chatbot
-Mental Health Chatbot , using Generative Ai , and a graphical UI 
+ An AI project creating a Mental Health Chatbot , using Gen-AI , and a graphical UI based interaction with the chatbot , hosted on a website
